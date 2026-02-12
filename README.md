@@ -1,4 +1,4 @@
-![CR-3](https://github.com/user-attachments/assets/485b7ff1-c098-40bf-93b4-00058c8729a9)
+![CO-7](https://github.com/user-attachments/assets/4db802a1-1546-4908-b34b-e25dfb6e04d5)
 
 ## 🥁 CarnaCode 2026 - Desafio 19 - Observer
 
